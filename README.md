@@ -1,7 +1,7 @@
 <h1>Sorteador de Amigo Secreto.</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura para elaboraçao de um site que efetua o sorteio para amigo secreto.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura para elaboraçao de um site que efetue o sorteio para amigo secreto.</p>
 
 ## �� Tecnologias
 <div>
